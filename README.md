@@ -9,6 +9,9 @@
 
 ### :man_technologist: Обо мне:
 
+Никита, 20 лет, Full Stack developer из москвы
+ -  фыв
+
 <!--
 **imynel/imynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
