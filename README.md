@@ -10,7 +10,26 @@
 ### :man_technologist: Обо мне:
 
 Никита, 20 лет, Full Stack developer из москвы
- -  фыв
+ -  🔭 Сейчас активно ище работу. Вот моё резюме
+
+
+### ⚡ Мой стек: 
+<div>
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+  <img src= "" title="" alt=""  width="40" height="40" />
+</div>
 
 <!--
 **imynel/imynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
